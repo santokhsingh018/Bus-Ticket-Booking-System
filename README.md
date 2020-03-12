@@ -1,6 +1,6 @@
 # Bus-Ticket-Booking-System
 
-The bus companay stuff can do the task as follows:
+The bus company stuff can do the task as follows:
 1. Retrieve bus information such as date of journey and price per seat.
 2. Record the bus booking details from customer.
 3. Update the bus schedule with the new destination entered and previous destination deleted.
